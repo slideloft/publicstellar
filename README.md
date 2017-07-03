@@ -17,7 +17,7 @@ search_term = Term that you want to search for.
 
 
 
-API(Example) : http://publicstellar.com/api/register.php?currency_type=TOKEN&currency_id=MICOSL&issuer_address=dsfsdf&federation_address=fdsfsdfsd&description=sdfsdfdsf&issuer_website=dsfsdfsdf&issuer_email=sdfdsf@ggg.com&total_token=hello&issuer_signature=ttretre&apiKey=Cv69C8mambO0.QwWRwxbZCbQK9soc9o.
+API(Example) : http://publicstellar.com/api/register.php?currency_type=TOKEN&currency_id=MICOSL&issuer_address=dsfsdf&federation_address=fdsfsdfsd&description=sdfsdfdsf&issuer_website=dsfsdfsdf&issuer_email=sdfdsf@ggg.com&total_token=hello&issuer_signature=ttretre&apiKey=nr0Hn66xNfrlN26Da8RepvLlTYtD7nlR.
 
 
 Function : Register your own list
