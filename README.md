@@ -2,7 +2,7 @@
 this is the doc file for api access to publicstellar
 
 
-API http://publicstellar.com/api/get_list.php?apiKey=g0LWpsolpF4cHU:mq2A2jJD2m49TEcAl&#164;cyType=ASSET&amp;search_term=THB
+API https://publicstellar.com/api/get_list.php?apiKey=srEjcSb9tQiAp58ethGt43m.Ere2pj3r&currencyType=ASSET&search_term=THB
 
 
 Function : Get list of currency with issuer details.
